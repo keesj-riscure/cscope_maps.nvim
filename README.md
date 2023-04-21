@@ -16,7 +16,7 @@ Only supports [neovim](https://neovim.io/). Heavily inspired by emacs' [xcscope.
 * Has [which-key.nvim](https://github.com/folke/which-key.nvim) hints baked in.
 * See [this](https://github.com/dhananjaylatkar/cscope_maps.nvim/edit/main/README.md#vim-gutentags) for `vim-gutentags`.
 
-# Installaion
+# Installation
 Install the plugin with your preferred package manager.
 
 ## [packer](https://github.com/wbthomason/packer.nvim)
